@@ -147,3 +147,9 @@ Shared saved-resource state is implemented using:
 
 ```text
 src/context/SavedContext.js
+
+## 6. Demonstration Video
+
+The demonstration video showing the working features of the OntoLearn mobile application is available below:
+
+[Watch the OntoLearn Demonstration Video](https://drive.google.com/file/d/1lS4sfImBuqldKRQBQZsyi127a8koWwhP/view?usp=drive_link)
