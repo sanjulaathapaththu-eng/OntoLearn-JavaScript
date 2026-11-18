@@ -7,7 +7,7 @@
 
 The demonstration video showing the working features of the OntoLearn mobile application is available below:
 
-[Watch the OntoLearn Demonstration Video](https://drive.google.com/file/d/1ABCxyz123456/view?usp=sharing)
+[Watch the OntoLearn Demonstration Video](https://drive.google.com/file/d/1lS4sfImBuqldKRQBQZsyi127a8koWwhP/view?usp=drive_link)
 
 ## 1. App Purpose
 
